@@ -6,7 +6,7 @@ package org.createingabetterworld.sun;
 /**
  * 
  * ======Susolvku======
- * @author Gizeh
+ * @author Sun
  * for creatingabetterworld.org
  * init.java
  * Last edited: 16.09.2015
